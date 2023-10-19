@@ -66,10 +66,10 @@
     i.a
   }, "11cc": function (a, t, n) {
     // a.exports = n.p + "img/img2.94d7cbaf.png"
-    a.exports = "https://github.com/rolellm/rolellm.github.io/blob/main/img/img2.94d7cbaf.png"
+    a.exports = "https://rolellm.github.io/Rolellm/img/img2.94d7cbaf.png"
   }, "3c11": function (a, t, n) {
     // a.exports = n.p + "img/img_4.4132147f.png"
-    a.exports = "https://github.com/rolellm/rolellm.github.io/blob/main/img/img_4.4132147f.png"
+    a.exports = "https://rolellm.github.io/Rolellm/img/img_4.4132147f.png"
   }, 4530: function (a, t, n) {
     "use strict";
     var e = n("f1c0"), i = n.n(e);
@@ -414,23 +414,23 @@
   }, "64a9": function (a, t, n) {
   }, "71d3": function (a, t, n) {
     // a.exports = n.p + "img/img1.2bf7fdf0.png"
-    a.exports = "https://github.com/rolellm/rolellm.github.io/blob/main/img/img1.2bf7fdf0.png"
+    a.exports = "https://rolellm.github.io/Rolellm/img/img1.2bf7fdf0.png"
   }, "7c41": function (a, t, n) {
     // a.exports = n.p + "img/img_5.10b0b9ff.png"
-    a.exports = "https://github.com/rolellm/rolellm.github.io/blob/main/img/img_5.10b0b9ff.png"
+    a.exports = "https://rolellm.github.io/Rolellm/img/img_5.10b0b9ff.png"
   }, "7e77": function (a, t, n) {
     // a.exports = n.p + "img/img.fc51f956.png"
-    a.exports = "https://github.com/rolellm/rolellm.github.io/blob/main/img/img.fc51f956.png"
+    a.exports = "https://rolellm.github.io/Rolellm/img/img.fc51f956.png"
   }, "8d95": function (a, t, n) {
     // a.exports = n.p + "img/img_3.394a600a.png"
-    a.exports = "https://github.com/rolellm/rolellm.github.io/blob/main/img/img_3.394a600a.png"
+    a.exports = "https://rolellm.github.io/Rolellm/img/img_3.394a600a.png"
   }, "8ec9": function (a, t, n) {
     "use strict";
     var e = n("63a0"), i = n.n(e);
     i.a
   }, a80a: function (a, t, n) {
     // a.exports = n.p + "img/img6.d7af2b16.png"
-    a.exports = "https://github.com/rolellm/rolellm.github.io/blob/main/img/img6.d7af2b16.png"
+    a.exports = "https://rolellm.github.io/Rolellm/img/img6.d7af2b16.png"
   }, c189: function (a, t, n) {
     "use strict";
     var e = n("e1c7"), i = n.n(e);
@@ -438,17 +438,17 @@
   }, e1c7: function (a, t, n) {
   }, e98e: function (a, t, n) {
     // a.exports = n.p + "img/img7.20c0d5f2.png"
-    a.exports = "https://github.com/rolellm/rolellm.github.io/blob/main/img/img7.20c0d5f2.png"
+    a.exports = "https://rolellm.github.io/Rolellm/img/img7.20c0d5f2.png"
   }, f15c: function (a, t, n) {
     // a.exports = n.p + "img/img3.a4da6670.png"
-    a.exports = "https://github.com/rolellm/rolellm.github.io/blob/main/img/img3.a4da6670.png"
+    a.exports = "https://rolellm.github.io/Rolellm/img/img3.a4da6670.png"
   }, f1c0: function (a, t, n) {
   }, f731: function (a, t, n) {
     // a.exports = n.p + "img/img_2.a744cc45.png"
-    a.exports = "https://github.com/rolellm/rolellm.github.io/blob/main/img/img_2.a744cc45.png"
+    a.exports = "https://rolellm.github.io/Rolellm/img/img_2.a744cc45.png"
   }, f85b: function (a, t, n) {
     // a.exports = n.p + "img/img_1.a1b44af7.png"
-    a.exports = "https://github.com/rolellm/rolellm.github.io/blob/main/img/img_1.a1b44af7.png"
+    a.exports = "https://rolellm.github.io/Rolellm/img/img_1.a1b44af7.png"
   }
 });
 //# sourceMappingURL=app.44db86a3.js.map
