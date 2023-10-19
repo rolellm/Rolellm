@@ -229,7 +229,7 @@
             attrs: {href: "https://github.com/InteractiveNLP-Team/RoleLLM-public"}
           }, [a._v("Code\n          ")])]), n("span", {staticClass: "a_class"}, [n("a", {
             staticClass: "a_text",
-            attrs: {href: ""}
+            attrs: {href: "https://huggingface.co/datasets/ZenMoore/RoleBench"}
           }, [a._v("RoleBench")])]), n("span", {staticClass: "a_class"}, [n("a", {
             staticClass: "a_text",
             attrs: {href: ""}
