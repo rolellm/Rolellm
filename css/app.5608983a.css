@@ -64,7 +64,9 @@
     .chat_btn[data-v-a060dd2c] {
         width: 800px;
         height: 130px;
-        border: 1px solid #363636;
+        /*border: 1px solid #363636;*/
+        border-left: #363636 solid 1px;
+        border-right: #363636 solid 1px;
         display: flex;
         align-items: center;
         justify-content: space-around
@@ -132,7 +134,9 @@
     .chat_btn[data-v-a060dd2c] {
         width: 88vw;
         min-height: 130px;
-        border: 1px solid #363636;
+        /*border: 1px solid #363636;*/
+        border-left: #363636 solid 1px;
+        border-right: #363636 solid 1px;
         padding-top: 10px
     }
 
