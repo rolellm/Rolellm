@@ -398,7 +398,7 @@
               var s = new XMLHttpRequest;
               s.withCredentials = !0, s.addEventListener("readystatechange", function (t) {
                 4 === this.readyState && (n.chat2 = this.responseText)
-              }), s.open("POST", "http://36.111.142.184:12000/prompt?Content-Type=application%2Fjson%3Bcharset%3Dutf-8"), s.setRequestHeader("Content-Type", "application/json"), s.send(a)
+              }), s.open("POST", "https://36.111.142.184:12000/prompt?Content-Type=application%2Fjson%3Bcharset%3Dutf-8"), s.setRequestHeader("Content-Type", "application/json"), s.send(a)
             }, play: function () {
               var t = JSON.stringify({name: this.value, prompt: this.chat2}),
                   e = this, a = new XMLHttpRequest;
@@ -418,7 +418,7 @@
                 return function (e) {
                   return t.apply(this, arguments)
                 }
-              }()), a.open("POST", "http://36.111.142.184:12000/audio?Content-Type=application%2Fjson%3Bcharset%3Dutf-8"), a.responseType = "blob", a.setRequestHeader("Content-Type", "application/json"), a.send(t)
+              }()), a.open("POST", "https://36.111.142.184:12000/audio?Content-Type=application%2Fjson%3Bcharset%3Dutf-8"), a.responseType = "blob", a.setRequestHeader("Content-Type", "application/json"), a.send(t)
             }, clear: function () {
               this.input = "", this.chat1 = "", this.chat2 = ""
             }, getQuestion: function () {
@@ -429,7 +429,7 @@
               var a = new XMLHttpRequest;
               a.withCredentials = !0, a.addEventListener("readystatechange", function (t) {
                 4 === this.readyState && (console.log(this.responseText), e.list = JSON.parse(this.responseText))
-              }), a.open("POST", "http://36.111.142.184:12000/question?Content-Type=application%2Fjson%3Bcharset%3Dutf-8"), a.setRequestHeader("Content-Type", "application/json"), a.send(t)
+              }), a.open("POST", "https://36.111.142.184:12000/question?Content-Type=application%2Fjson%3Bcharset%3Dutf-8"), a.setRequestHeader("Content-Type", "application/json"), a.send(t)
             }
           }
         }, w = R,
@@ -540,7 +540,7 @@
         j = S.exports, O = {name: "app", components: {HelloWorld: j}}, E = O,
         G = (a("034f"), Object(h["a"])(E, s, i, !1, null, null, null)),
         I = G.exports, A = a("5c96"), B = a.n(A), H = (a("0fae"), a("cee4")),
-        $ = "http://36.111.142.184:12000",
+        $ = "https://36.111.142.184:12000",
         Z = H["a"].create({baseURL: $, timeout: 5e5});
 
     function J() {
